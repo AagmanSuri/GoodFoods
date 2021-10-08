@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.borderList {
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  width: 50%;
+  margin: 1rem 0rem 0rem 12rem;
+  border-radius: 0.5rem;
+  margin-left: 20rem;
+}
+li {
+  list-style: none;
+}
+button {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
